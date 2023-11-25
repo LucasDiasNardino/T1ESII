@@ -31,3 +31,8 @@ mvn spring-boot:run // executar o backend
 
 #### Diagrama do Banco de Dados
 ![Diagrama do Banco de Dados](DataBase.png)
+
+
+### Testes
+
+Para executar os testes, basta executar o comando `mvn test` na pasta `v1` do projeto.
